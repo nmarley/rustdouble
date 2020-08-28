@@ -1,0 +1,9 @@
+[package]
+name = "rustdouble"
+version = "0.1.0"
+authors = ["Nathan Marley <nathan.marley@gmail.com>"]
+edition = "2018"
+
+[lib]
+name = "dubb"
+crate-type = ["staticlib"]
